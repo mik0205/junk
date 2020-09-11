@@ -1,6 +1,6 @@
 # github.com/AdamBien/junk
 
-Talks / Conferences samples
+JavaDay conference samples
 ========
 
 
